@@ -1,0 +1,9 @@
+*2014.06.20 13:12:21
+figure out why copy tabs needs to be pressed twice
+
+*2014.06.20 16:33:24
+share code repository on github
+
+*2014.06.20 13:12:09
+add in paste links functionality
+

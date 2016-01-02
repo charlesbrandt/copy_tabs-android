@@ -1,0 +1,109 @@
+*2014.06.20 16:33:15 complete
+seems to work!
+requested [2014.06.20 13:12:49]
+test private browsing
+
+*2014.06.20 16:11:00 complete
+it's pending review
+requested [2014.06.20 13:11:09]
+publish initial version of Copy Tabs to mozilla
+
+*2014.06.20 16:10:40 complete
+this was specified while publishing... good enough
+requested [2014.06.20 13:12:54]
+add in license
+
+*2014.06.20 16:10:27
+https://www.google.com/search?q=javascript+append+data+to+document.body&oq=javascript+append+data+to+document.body&aqs=chrome..69i57.10366j0j1&sourceid=chrome&es_sm=91&ie=UTF-8#q=mozilla+firefox+android+publish+add+ons
+https://developer.mozilla.org/en-US/Add-ons/Firefox_for_Android
+https://addons.mozilla.org/en-US/developers/addon/copy-tabs/submit/7
+https://addons.mozilla.org/en-US/developers/addon/copy-tabs/edit
+https://addons.mozilla.org/en-US/android/addon/copy-tabs/
+https://addons.mozilla.org/en-US/android/user/charlesbrandt/
+https://addons.mozilla.org/en-US/android/
+https://addons.mozilla.org/en-US/android/addon/tap-translate/?src=hp-dl-featured
+https://developer.mozilla.org/en-US/Add-ons/Add-on_guidelines
+
+
+*2014.06.20 14:27:55 detailed description
+Copy Tabs will take the address and title for each tab and create a text list of those.  Firefox for Android does not yet support interacting with the clipboard from an extension, so the contents are posted to a text box in a new tab.  From there, you can copy the list of open links to the clipboard and paste it to your notes. 
+
+In the future, it may make sense to enable pasting and opening a previously stored list, similar to Copy All Urls. 
+
+*2014.06.20 13:24:47
+https://www.google.com/search?q=javascript+append+data+to+document.body&oq=javascript+append+data+to+document.body&aqs=chrome..69i57.10366j0j1&sourceid=chrome&es_sm=91&ie=UTF-8#q=javascript+clear+document.body
+http://stackoverflow.com/questions/5419733/document-body-appendchildi
+http://stackoverflow.com/questions/2250589/does-document-body-innerhtml-clear-the-web-page
+https://www.google.com/search?q=document.createElement&oq=document.createElement&aqs=chrome..69i57.5286j0j1&sourceid=chrome&es_sm=91&ie=UTF-8#q=document.createelement+textarea
+https://developer.mozilla.org/en-US/docs/Web/API/document.createElement
+http://stackoverflow.com/questions/7377399/creating-a-textarea-with-javascript
+
+
+*2014.06.20 13:24:39
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/textarea
+https://developer.mozilla.org/en-US/Add-ons/Firefox_for_Android/API/Prompt.jsm#show
+https://developer.mozilla.org/en-US/Add-ons/Firefox_for_Android/API
+https://developer.mozilla.org/en-US/Add-ons/Firefox_for_Android/API/BrowserApp
+https://developer.mozilla.org/en-US/Add-ons/Firefox_for_Android/API/Tab
+https://developer.mozilla.org/en-US/docs/Web/API/document
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/body
+https://developer.mozilla.org/en-US/Add-ons/Firefox_for_Android/API/BrowserApp/addTab
+https://support.mozilla.org/en-US/kb/pinned-tabs-keep-favorite-websites-open?redirectlocale=en-US&redirectslug=app-tabs-keep-favorite-websites-open
+https://developer.mozilla.org/en-US/Add-ons/Firefox_for_Android/API/BrowserApp/deck
+https://www.google.com/search?q=firefox+blank+paage&oq=firefox+blank+paage&aqs=chrome..69i57.4926j0j1&sourceid=chrome&es_sm=91&ie=UTF-8#q=firefox+blank+page&spell=1
+https://support.mozilla.org/en-US/questions/926778
+
+
+*2014.06.20 13:21:38
+old version:
+
+ <em:description>Copy Tabs add-on for Firefox for Android (Native).  This add-on will copy the url address for all open tabs to the clipboard so you can paste them to your notes.  It will also accept a list of links and open tabs for each address in the list.</em:description>
+
+*2014.06.20 13:12:36 complete
+first draft is good enough... gets data out of the browser
+requested [2014.06.19 17:36:10]
+make copy tabs extension for firefox for android
+
+*2014.06.20 10:32:01 links
+https://www.google.com/search?q=create+firefox+add-on&oq=create+firefox+add-on&aqs=chrome..69i57.10262j0j1&sourceid=chrome&es_sm=91&ie=UTF-8#q=firefox+android+extension+access+clipboard
+https://addons.mozilla.org/En-uS/firefox/addon/copy-all-links/?src=cb-dl-recentlyadded
+http://stackoverflow.com/questions/9235037/how-to-obtain-data-from-clipboard-in-firefox
+https://support.mozilla.org/en-US/kb/Granting%20JavaScript%20access%20to%20the%20clipboard
+https://developer.mozilla.org/en-US/Add-ons/SDK/Tutorials/List_Open_Tabs
+https://blog.mozilla.org/addons/2009/01/28/how-to-develop-a-firefox-extension/
+https://blog.mozilla.org/addons/2014/06/05/how-to-develop-firefox-extension/
+https://developer.mozilla.org/en-US/Add-ons/Firefox_for_Android
+https://developer.mozilla.org/en-US/Add-ons/Firefox_for_Android/API
+https://developer.mozilla.org/en-US/Add-ons/Firefox_for_Android/API/BrowserApp
+https://developer.mozilla.org/en-US/Add-ons/Firefox_for_Android/API/Tab
+https://developer.mozilla.org/en-US/docs/Web/API/Window
+https://developer.mozilla.org/en-US/docs/Web/API/document
+https://developer.mozilla.org/en-US/docs/Mozilla/Tech/XUL/browser
+https://developer.mozilla.org/en-US/Add-ons/Firefox_for_Android/API/Prompt.jsm#show
+https://developer.mozilla.org/en-US/Add-ons/SDK/Tutorials/Mobile_development
+https://developer.mozilla.org/en-US/Add-ons/Firefox_for_Android/Code_snippets
+https://developer.mozilla.org/en-US/Add-ons/Bootstrapped_extensions
+http://www.oxymoronical.com/blog/2011/01/Playing-with-windows-in-restartless-bootstrapped-extensions
+http://starkravingfinkle.org/blog/2011/01/bootstrap-jones-adventures-in-restartless-add-ons/
+http://starkravingfinkle.org/blog/2011/01/restartless-add-ons-more-resources/
+https://addons.mozilla.org/en-us/firefox/addon/copyallurls/
+http://www.plasser.net/copyallurls/
+https://developer.mozilla.org/en-US/Add-ons/Firefox_for_Android/Walkthrough
+https://developer.mozilla.org/en-US/Add-ons/Firefox_for_Android/Initialization_and_Cleanup#template_code
+
+
+*2014.06.19 21:10:34
+access to the clipboard is not supported in Firefox in Android:
+
+https://developer.mozilla.org/en-US/Add-ons/SDK/Tutorials/Mobile_development
+(find "clipboard")
+ 
+https://www.google.com/#q=android+firefox+add+ons+api+clipboard
+https://developer.mozilla.org/en-US/Add-ons/SDK/Tutorials/Mobile_development
+https://developer.mozilla.org/en-US/docs/Web/API/ClipboardEvent
+http://www.androidpolice.com/2013/12/15/new-app-belt-io-copies-text-and-links-between-android-and-chrome-or-firefox-in-a-super-simple-interface/
+https://addons.mozilla.org/bn-BD/android/addon/clickless-menu/reviews/497904/
+http://codeverge.com/mozilla.dev.b2g/clipboard-not-loaded-on-b2g/1512683
+https://mxr.mozilla.org/mozilla-central/ident?i=3DnsClipboardHelper
+https://www.google.com/search?q=nsICliboardHelper&oq=nsICliboardHelper&aqs=chrome..69i57.8814j0j4&sourceid=chrome&es_sm=91&ie=UTF-8#q=nsICliboardHelper+firefox+addon
+

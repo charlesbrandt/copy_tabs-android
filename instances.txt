@@ -1,0 +1,32 @@
+*2016.01.02 17:11:15 todo
+/c/public/copy_tabs/instances.txt
+/c/public/copy_tabs/launch.sh
+/c/public/copy_tabs/journal.txt
+/c/public/copy_tabs/README.txt
+/c/public/copy_tabs/todo.txt
+
+*2014.06.20 13:13:43 todo
+/c/alpha/copy_tabs/instances.txt
+/c/alpha/copy_tabs/launch.sh
+/c/alpha/copy_tabs/journal.txt
+/c/alpha/copy_tabs/README.txt
+/c/alpha/copy_tabs/todo.txt
+
+*2014.06.19 18:12:23 code
+/c/alpha/copy_tabs/instances.txt
+/c/sites/charlesbrandt.com/launch.sh
+/c/alpha/copy_tabs/copyallurls/chrome/content/copyallurls.js
+/c/alpha/copy_tabs/firefox-android/install.rdf
+/c/alpha/copy_tabs/firefox-android/bootstrap.js
+
+*2014.06.19 17:28:54 code
+/c/alpha/copy_tabs/instances.txt
+/c/alpha/copy_tabs/launch.sh
+
+*2014.06.19 17:28:54 todo
+/c/alpha/copy_tabs/instances.txt
+/c/alpha/copy_tabs/launch.sh
+/c/alpha/copy_tabs/journal.txt
+/c/alpha/copy_tabs/todo.txt
+
+
