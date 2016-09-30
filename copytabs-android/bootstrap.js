@@ -5,6 +5,8 @@ Cu.import("resource://gre/modules/Prompt.jsm");
 
 var gWindow;
 var menuId;
+// this is used to track the tab we have open
+//for putting the list of all tabs open
 var mainTab = false;
 
 function checkClosedTab(aEvent) {

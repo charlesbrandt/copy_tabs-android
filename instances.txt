@@ -1,3 +1,10 @@
+*2016.05.30 17:14:51 code
+/c/public/copy_tabs/instances.txt
+/c/public/copy_tabs/launch.sh
+/c/public/copy_tabs/copyallurls/chrome/content/copyallurls.js
+/c/public/copy_tabs/copytabs-android/install.rdf
+/c/public/copy_tabs/copytabs-android/bootstrap.js
+
 *2016.01.02 17:11:15 todo
 /c/public/copy_tabs/instances.txt
 /c/public/copy_tabs/launch.sh
